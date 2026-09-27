@@ -68,3 +68,37 @@ OOPS/
 │
 └── README.md
 
+## 📚 Topics Covered
+
+### 1. Basic C++ Programming
+- Input and output
+- Variables and data types
+- Strings
+- Pass by value
+- Pass by reference
+- Pass by pointer
+
+### 2. Classes and Objects
+- Classes
+- Objects
+- Data members
+- Member functions
+- Functions outside the class
+- Objects as function arguments
+
+### 3. Constructors and Destructors
+- Default constructor
+- Parameterized constructor
+- Copy constructor
+- Destructors
+
+### 4. Static and Friend Functions
+- Static data members
+- Static member functions
+- Friend functions
+- Friend functions involving multiple classes
+
+### 5. Inheritance
+- Single inheritance
+- Multilevel inheritance
+- Access specifiers
