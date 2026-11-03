@@ -1,5 +1,5 @@
 // write a c++ program with classes abstract class vehicle and derived class car and bike to display features of vehicle such as no.of wheels, mileage
-//                , fuel capacity
+//               , fuel capacity
 #include<iostream>
 using namespace std;
 
